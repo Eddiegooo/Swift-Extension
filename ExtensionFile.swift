@@ -93,3 +93,8 @@ extension QL where Base: Person{
 //let p = Person()
 //let _ = p.ql.name
 //let _ = Student().ql.name
+
+
+
+
+
